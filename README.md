@@ -67,6 +67,7 @@ Kubiki is a Python-based console application designed to find the roots of quadr
 ## 📁 Структура проекта (Russian)
 
 Kubiki/
+
 ├── data/ - Файлы с данными (входные, выходные, бэкапы)
 
 ├── docs/ - Документация (ТЗ, регламент обслуживания)
@@ -82,6 +83,7 @@ Kubiki/
 ## 📁 Project Structure (English)
 
 Kubiki/
+
 ├── data/ - Data files (input, output, backups)
 
 ├── docs/ - Documentation (Technical requirements, maintenance)
@@ -95,8 +97,10 @@ Kubiki/
 ---
 
 Автор: Бестаева В.О <3
+
 Created by Bestaeva V.O. <3
 
 ---
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
                       ц
