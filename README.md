@@ -49,10 +49,15 @@ Kubiki is a Python-based console application designed to find the roots of quadr
 ## 📁 Структура проекта / Project Structure
 
 Kubiki/
+
 ├── data/               # Файлы с данными (входные, выходные, бэкапы)
+
 ├── docs/               # Документация (ТЗ, регламент обслуживания)
+
 ├── src/                # Исходный код программы (main.py)
+
 ├── tests/              # Тест-кейсы
+
 └── README.md           # Этот файл
 
 ---
