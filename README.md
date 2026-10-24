@@ -32,6 +32,7 @@
 * 💾 Сохранение результатов: Все ответы записываются в файл data/output.txt.
 * 📝 Логирование: Все действия пользователя, введенные данные и ошибки записываются в журнал data/app.log для анализа.
 * 🛑 Обработка ошибок: Защита от ввода букв вместо цифр и от деления на ноль (если A=0).
+* 🧪 Автотестирование: Наличие скрипта test_kubiki.py для автоматической проверки работы модулей (библиотека unittest).
 
 ### 🚀 Установка:
 1. Скачайте и установите Python 3 с официального сайта (python.org). При установке обязательно поставьте галочку "Add Python to PATH".
@@ -58,6 +59,7 @@ Kubiki is a Python-based console application designed to find the roots of quadr
 * 💾 Output: Saves results to data/output.txt.
 * 📝 Logging: All user actions, inputs, and errors are recorded in data/app.log for analysis.
 * 🛑 Error Handling: Handles invalid inputs (letters instead of numbers) and division by zero (A=0).
+* 🧪 Automated Testing: Includes test_kubiki.py for automated testing of core modules (unittest library).
 
 ### 🚀 Installation:
 1. Download and install Python 3 from the official website (python.org). Make sure to check "Add Python to PATH" during installation.
