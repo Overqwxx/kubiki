@@ -4,20 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Free-green?style=for-the-badge)
 
-Консольное приложение для решения квадратных уравнений с поддержкой комплексных корней, чтением/записью файлов и созданием резервных копий.
-
----
-
-## 🇷🇺 Описание (Russian)
-
-Проект Kubiki — это программа на языке Python, созданная для нахождения корней квадратного уравнения вида Ax^2 + Bx + C = 0. 
-
-# Проект Kubiki: Калькулятор квадратных уравнений 🧮
-
-![Python](https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Free-green?style=for-the-badge)
-
 Консольное приложение для решения квадратных уравнений с поддержкой комплексных корней, чтением/записью файлов и ведением журнала событий.
 
 ---
